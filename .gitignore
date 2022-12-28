@@ -4,3 +4,4 @@ venv
 .png
 .pdf
 .xlsx
+bd.sqlite
