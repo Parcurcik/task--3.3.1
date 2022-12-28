@@ -13,3 +13,6 @@
 ![3 4 3](https://user-images.githubusercontent.com/102901720/209477600-7c78c25b-77ad-4cfe-bf18-14375522da39.png)
 # 3.5.2
 ![3 5 2](https://user-images.githubusercontent.com/102901720/209572999-711379cb-e688-4f17-8304-2c9509e21541.png)
+# 3.5.3 
+![2022-12-28_14-25-43](https://user-images.githubusercontent.com/102901720/209790903-8e2d9fb0-e39d-4cd5-b4c0-bfa7d11ab9ad.png)
+!!! Файл с базой данных весит более 100 мб, добавил в .gitignore
